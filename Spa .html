@@ -543,7 +543,7 @@
                 <!-- Team Member 2 -->
                 <div class="bg-white rounded-xl shadow-md overflow-hidden group hover:shadow-xl transition-all duration-300">
                     <div class="relative overflow-hidden">
-                        <img src="https://i.pinimg.com/736x/64/c5/e0/64c5e031269bc43e518ae7659193587e.jpg" alt="Julie Kim" class="w-full h-96 object-cover object-center transform group-hover:scale-105 transition-transform duration-500">
+                        <img src="https://i.pinimg.com/736x/6a/cf/a3/6acfa319b71d3cb8e1047f222eacfa6d.jpg" alt="Julie Kim" class="w-full h-96 object-cover object-center transform group-hover:scale-105 transition-transform duration-500">
                         <div class="absolute inset-0 bg-gradient-to-t from-dark/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end justify-center pb-8">
                             <div class="flex space-x-4">
                                 <a href="#" class="bg-white text-primary p-2 rounded-full hover:bg-primary hover:text-white transition-colors duration-300">
